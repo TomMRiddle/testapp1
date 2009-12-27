@@ -71,5 +71,5 @@ PLATFORMS
   x86-mingw32
 
 DEPENDENCIES
-  mysql2
+  mysql2 (= 0.2.6)
   rails (= 3.0.3)
